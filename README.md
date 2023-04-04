@@ -1,6 +1,6 @@
 # GSoC_OrganizationsTracker
 
-LIVE LINK : 
+LIVE LINK : https://shibam120302.github.io/GSoC_Orgs_Management_Dashboard/
 
 This project contains data about every organization that has participated in Google Summer of Code since 2009.
 
