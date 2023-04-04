@@ -1,6 +1,6 @@
 # GSoC_OrganizationsTracker
 
-LIVE LINK : https://rajgm.github.io/GSoC_OrganizationsTracker/
+LIVE LINK : 
 
 This project contains data about every organization that has participated in Google Summer of Code since 2009.
 
@@ -104,8 +104,5 @@ This section list frameworks, libraries used to build this project
 
 ## Creator
 
-**Raj Gaurav Maurya**
+**Shibam Nath**
 
-- <https://github.com/RajGM>
-- <https://twitter.com/RajGM29>
-- <https://www.linkedin.com/in/rajgm29/>
