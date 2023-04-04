@@ -21,7 +21,7 @@ It also contains Filter based on tools(tech), topic and number of times organiza
 
 Quick start available option:
 
-- Clone the repo: `https://github.com/RajGM/GSoC_OrganizationsTracker.git`
+- Clone the repo: `https://github.com/shibam120302/GSoC_Orgs_Management_Dashboard.git`
 - Run index.html on local machine for the preview
 
 ### To scrape Data
