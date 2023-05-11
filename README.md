@@ -2,7 +2,7 @@
 
 LIVE LINK : https://shibam120302.github.io/GSoC_Orgs_Management_Dashboard/
 
-This project contains data about every organization that has participated in Google Summer of Code since 2009.
+This project is contains data about every organization that has participated in Google Summer of Code since 2009.
 
 This project contains every tools and technologies used by the organization.
 
